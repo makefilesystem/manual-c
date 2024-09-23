@@ -28,8 +28,6 @@ These flags enable specific features required for your code.
 Variables
 You can declare variables using the following syntax:
 
-plaintext
-Копіювати код
 varName = value;
 For string variables, wrap the value in double quotes:
 
