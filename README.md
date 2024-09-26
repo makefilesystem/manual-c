@@ -5,8 +5,8 @@ Manual-C with extended support (windows + linux)
 Build
 -----
 ### Dependencies
-    - make
-    - c++ compiler
+ * make
+ * c++ compiler
 
 ### Help
     $ make help
