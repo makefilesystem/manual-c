@@ -9,9 +9,6 @@
 #include "linwin.hpp"
 
 
-#define ALLOW_UNUSED(x) (void (x))
-
-
 std::unordered_map<std::string, std::string> stringVariables;
 std::unordered_map<std::string, int> intVariables;
 
