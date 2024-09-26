@@ -1,11 +1,15 @@
-# Manual-C fork with linux support
-Note: window supported too
+Manual-C LinWin
+===============
+Manual-C with extended support (windows + linux)
 
-## Build
+<br/>
+
+Build
+-----
 ### Dependencies
- * make
- * c++ compiler
+    * make
+    * c++ compiler
 
 ### Help
- `$ make help`
+    $ make help
 
